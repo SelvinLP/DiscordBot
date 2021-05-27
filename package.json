@@ -1,0 +1,24 @@
+{
+  "name": "discordbot",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/SelvinLP/DiscordBot.git"
+  },
+  "keywords": [],
+  "author": "Selvin Lisandro",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/SelvinLP/DiscordBot/issues"
+  },
+  "homepage": "https://github.com/SelvinLP/DiscordBot#readme",
+  "dependencies": {
+    "discord.js": "^12.5.3",
+    "dotenv": "^10.0.0"
+  }
+}
